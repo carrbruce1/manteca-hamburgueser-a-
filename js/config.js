@@ -1,6 +1,6 @@
 const CONFIG = {
   nombre: "Manteca Burger",
-  whatsapp: "5491112345678",
+  whatsapp: "5491133939593",
 
   categorias: ["Burger","Agregados", "Combos"],
 
